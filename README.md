@@ -1,7 +1,5 @@
-- 👋 记事本
-htmlpreview.github.io/?
+- 👋 记事本</br>
 
-<!---
-stsuixin/stsuixin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+HTML页面预览小技巧：</br>
+htmlpreview.github.io/? </br>
+
